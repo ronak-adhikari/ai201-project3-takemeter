@@ -57,6 +57,29 @@ Uncertain example:
 | Post is nostalgic but makes a comparative claim | If the claim is supported by specific examples → analysis; if it's just feeling → reaction |
 | Post is in Hinglish (mixed Hindi/English) | Include only if the argument is followable in English; skip if majority non-English |
 
+### Difficult Examples Encountered During Annotation
+
+**Example 1:**
+> "I agree RCB is simply the better team"
+
+Could be **reaction** (expressing fan emotion) or **hot_take** (asserting a claim about team quality).
+Decision: **hot_take** — it's making a comparative claim about team quality, not reacting to a specific moment or event. Reactions are tied to something that just happened. This is a standing opinion.
+
+---
+
+**Example 2:**
+> "You are same kind of low life person. There is no need to support or non support age fraud. He did not commit age fraud. I know he is 1.5 years older. But i don't care. Even if somebody claims he is 15 i will say OK. Coz 1.5 years doesn't matter coz all the players almost 100% have done age fraud."
+
+Could be **analysis** (contains a factual concession — acknowledges the 1.5 year difference) or **hot_take** (emotional, dismissive tone throughout).
+Decision: **hot_take** — the factual acknowledgment is used to dismiss the argument rather than engage with it. The post asserts rather than reasons. Per decision rule: a stat or fact used decoratively rather than as part of a logical argument -> hot_take.
+
+---
+
+**Example 3:**
+> "IPL hastened it, but Kohli truly led the WWE-Ification of cricket."
+
+Could be **analysis** (structured metaphor making a causal claim) or **hot_take** (bold assertion with no supporting evidence).
+Decision: **hot_take** — despite the creative framing, there is no evidence or reasoning provided to support the claim. The metaphor is assertive rather than argumentative. A well-constructed sentence is not the same as a well-supported argument.
 ---
 
 ### Label Distribution Target
