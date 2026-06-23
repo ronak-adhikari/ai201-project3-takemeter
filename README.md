@@ -215,3 +215,6 @@ After reviewing the wrong predictions from Section 4, I shared the 16 misclassif
 
 **Instance 4 — Planning.md and README.md text formating for GitHub:**
 I used Claude to help me neatly format the text contents in this file and the planning.md file.
+
+## Demo Video
+[Watch the demo here](https://drive.google.com/file/d/1LzF8zw98rtnaDa_PlMRGCejyYeUCsZO0/view?usp=sharing)
